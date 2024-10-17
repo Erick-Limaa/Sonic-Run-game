@@ -1,6 +1,7 @@
 {
   "name": "dev",
   "private": true,
+  "homepage": "https://erick-limaa.github.io/Sonic-Run-game/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
